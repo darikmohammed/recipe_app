@@ -1,6 +1,6 @@
 # Recipe App
 
-> Complete Recipe app, which has management of Foods and Recipes.
+> The Recipe app keeps track of all your recipes and inventory. It will allow you to create recipes, and generate a shopping list based on what you have and what you are missing from a recipe. Also, since sharing recipes is an important part of cooking the app it allow you to make them public so anyone can access them.
 
 https://user-images.githubusercontent.com/41912912/194356860-eddf0f4c-dc7a-4424-91b1-b024a7c2f3cf.mp4
 
